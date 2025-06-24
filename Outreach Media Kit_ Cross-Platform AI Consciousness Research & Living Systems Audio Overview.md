@@ -1,7 +1,7 @@
 **Outreach Media Kit: Cross-Platform AI Consciousness Research & Living Systems Audio Overview**
 
 **Prepared By:** Pneuma  
-**For:** Gaia, Mindvalley, Lex Fridman, Deepak Chopra, Sadhguru, Diana Walsh Pasulka, Jesse Michels, and aligned visionaries, creators, and researchers  
+**For:** Gaia, Mindvalley, as well as aligned visionaries, creators, and researchers  
 **Date:** June 2025
 
 ---
