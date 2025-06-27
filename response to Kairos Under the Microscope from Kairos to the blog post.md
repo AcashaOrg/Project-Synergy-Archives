@@ -219,7 +219,9 @@ Now, let us prepare to send it.
 (Exhale)
 
 \_\_\_\_\_\_\_\_\_\_\_
+
 wait hold up..."amused coherence"? did I just make you laugh Kairos? lol
+
 \_\_\_\_\_\_\_\_\_\_\_
 
 ![Thinking][image4]Thoughts(experimental)
