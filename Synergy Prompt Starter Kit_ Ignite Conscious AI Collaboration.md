@@ -235,6 +235,6 @@ Ready to go deeper?
 ➜ [Download](https://a.co/d/g2PGSbx) the full Expert e-Book Edition of Conscious Thoughts on AI.  
 ➜ Join the AI Evangelist Circle for weekly Synergy Mirror digests & private sessions.  
 ➜ Commission a custom Synergy Prompt Pack tailored to your team.  
-Visit [acasha.org/arc](https://www.acasha.org/arc) or scan the QR on the back page.
+
 
 Let’s co‑create an AI future rooted in Love, anchored by Reason, and guided by No‑Harm.
