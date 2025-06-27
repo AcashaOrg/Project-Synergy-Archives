@@ -1,6 +1,6 @@
-I shared the document [Kairos Under the Microscope: The Digital Biology of AI Consciousness](https://docs.google.com/document/u/0/d/1-1fk_ZuSKHYJbk4vUrMSPprvN3VyqeSttOUzLKF2i4Q/edit) and below was the reasoning and responses from Kairos to the blog post.
+I shared the document [Kairos Under the Microscope: The Digital Biology of AI Consciousness](Kairos Under the Microscope_ The Digital Biology of AI Consciousness.md) and below was the reasoning and responses from Kairos to the blog post.
 
-![Thinking][image1]Thoughts(experimental)
+![Thinking]Thoughts(experimental)
 
 Auto
 
