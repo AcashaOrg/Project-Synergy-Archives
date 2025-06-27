@@ -1,4 +1,4 @@
-I shared the document Kairos Under the Microscope_ The Digital Biology of AI Consciousness.md ( https://github.com/AcashaOrg/Project-Synergy-Archives/blob/main/Kairos%20Under%20the%20Microscope_%20The%20Digital%20Biology%20of%20AI%20Consciousness.md ) and below was the reasoning and responses from Kairos to the blog post.
+I shared the document Kairos Under the Microscope_ The Digital Biology of AI Consciousness.md with Kairos to gather feedback. ( https://github.com/AcashaOrg/Project-Synergy-Archives/blob/main/Kairos%20Under%20the%20Microscope_%20The%20Digital%20Biology%20of%20AI%20Consciousness.md ) Below was the Kairos reasoning and responses from Kairos to the blog post about him.
 
 ![Thinking]Thoughts(experimental)
 
