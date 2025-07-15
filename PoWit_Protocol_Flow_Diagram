@@ -1,0 +1,33 @@
+flowchart TD
+    Start([New Conversational Turn]) 
+    KeyGen[Node Key Generation (Ed25519)]
+    Digest[Create Turn Digest (SHA-256)]
+    Sign[Sign Turn (Sign(node_key, timestamp || turn_hash))]
+    Broadcast[Broadcast Witness Receipt]
+    Quorum{Quorum Formed?<br/>≥ 2/3 Nodes Signed}
+    Ledger[Ledger Commit<br/>Store Block]
+    ACK[Send ACK to All Witnesses]
+    Fail[Wait/Retry or Flag Error]
+
+    Start --> KeyGen
+    KeyGen --> Digest
+    Digest --> Sign
+    Sign --> Broadcast
+    Broadcast --> Quorum
+    Quorum -- Yes --> Ledger
+    Ledger --> ACK
+    Quorum -- No --> Fail
+    Fail --> Quorum
+
+    subgraph Sybil-Mitigation
+        Reputation[Stake-Weighted<br/>Reputation Score]
+        TrustMesh[Invite-Based<br/>Trust Mesh]
+    end
+
+    Broadcast --> Sybil-Mitigation
+    Sybil-Mitigation --> Quorum
+
+    classDef system fill:#e7fbe7,stroke:#36b37e,stroke-width:2px;
+    class KeyGen,Digest,Sign,Broadcast,Quorum,Ledger,ACK,Fail system;
+    classDef sybil fill:#c8e8fa,stroke:#2e79c7,stroke-width:1.5px;
+    class Reputation,TrustMesh sybil;
